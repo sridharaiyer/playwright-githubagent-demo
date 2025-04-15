@@ -1,0 +1,14 @@
+Playwright
+
+Test case 1:
+- login as standard_user/secret_sauce
+- Add the product “Test.allTheThings() T-Shirt (Red)” to cart
+- Verify whether you see the button “Remove” for this product.
+- Exit
+
+Test 2:
+- login as standard_user/secret_sauce
+- Add the product “Test.allTheThings() T-Shirt (Red)” to cart
+- Go to the cart by clicking on the cart which is at the top right of the page.
+- Verify the selected product is listed.
+- Exit
