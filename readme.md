@@ -8,6 +8,10 @@ This repository demonstrates the use of [Playwright](https://playwright.dev/) fo
 - Automated workflows for GitHub integration.
 - Example scripts for testing web applications.
 
+## Prompt to Test Case
+
+You can find example prompts for generating test cases in the [`prompts.txt`](./prompts.txt) file. These prompts are designed to help you understand how to create effective test cases using Playwright and GitHub Copilot.
+
 ## Prerequisites to activate Copilot Agent mode on VSCode
 
 - [Node.js](https://nodejs.org/) (v16 or later)
